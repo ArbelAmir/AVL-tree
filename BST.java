@@ -1,4 +1,4 @@
-package oop.ex4.data_structures;
+package myDataStructures;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
