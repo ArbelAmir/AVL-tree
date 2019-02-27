@@ -1,4 +1,4 @@
-package oop.ex4.data_structures;
+package myDataStructures;
 
 /**
  * an interface for implementing tree data structure
